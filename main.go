@@ -1,10 +1,10 @@
-package main
+package gomod
 
 import (
     "fmt"
 )
 
-func main() {
-    fmt.Println("this is go")
+func Introduce() {
+    fmt.Println("this is gomod")
 }
 
